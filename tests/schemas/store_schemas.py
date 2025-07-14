@@ -11,6 +11,6 @@ STORE_SCHEMA = {
             "type": "integer"
         }
     },
-    "required": ["approved", "placed", "delivered"],
+    "required": ["approved", "delivered"],
     "additionalProperties": False
 }
